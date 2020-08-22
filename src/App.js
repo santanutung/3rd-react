@@ -16,7 +16,7 @@ export default function App() {
       <h1>Hello CodeSandbox test</h1>
 
       <ul>
-        {" "}
+  
         <li>{prouductName[0]}</li>
       </ul>
       <ul>
